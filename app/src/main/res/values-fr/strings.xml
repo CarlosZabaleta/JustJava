@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="hello_world">Bonjour le monde !</string>
+    <string name="Thank_you">aaaa</string>
+    <string name="edit_text">vv</string>
+    <string name="pastel_chocolate">bb</string>
+    <string name="order_summary">nn</string>
+    <string name="order">nnnn</string>
+    <string name="mango_sorbet">nnnnn</string>
+    <string name="pie_mora">hhh</string>
+    <string name="print_logs">fff</string>
+    <string name="quantity">eee</string>
+</resources>

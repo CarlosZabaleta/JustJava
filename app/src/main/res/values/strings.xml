@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="edit_text">Name</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order_summary">Resumen de pedido</string>
+    <string name="order">Ordenar Pedido</string>
+    <string name="mango_sorbet">Sorbete de Mango</string>
+    <string name="pie_mora">Pie de Mora</string>
+    <string name="pastel_chocolate">Pastel de chocolate</string>
+    <string name="print_logs">Imprimir Logs</string>
+    <string name="Thank_you">Thank you!</string>
+</resources>
